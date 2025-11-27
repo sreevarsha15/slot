@@ -28,64 +28,10 @@ Execute the program using runserver command.
 
 ## PROGRAM
 ```
-<html>
-    <body>
-        <img src="c:\Users\acer\slot\logo.png" width="1000" height="200" title="SEC logo">
-        <br><br>
 
-        <table border="2" cellspacing="3" cellpadding="11">
-            <caption><b>SLOT TIME TABLE (Sree Varsha.D-25002381))</b></caption>
-
-            <tr bgcolor="yellow">
-                <th>TIME/DAY</th>
-                <th>MONDAY</th>
-                <th>TUESDAY</th>
-                <th>WEDNESDAY</th>
-                <th>THURSDAY</th>
-                <th>FRIDAY</th>
-                <th>SATURDAY</th>
-            </tr>
-
-           
-            <tr>
-                <td bgcolor="yellow">8:00–10:00</td>
-                <td bgcolor="lightgreen">Python</td>
-                <td bgcolor="lightblue">WEB</td>
-                <td bgcolor="lightblue">WEB</td>
-                <td bgcolor="lightgray">FREE SLOT</td>
-                <td bgcolor="lightgray">FREE SLOT</td>
-                <td bgcolor="lightblue">WEB</td>
-            </tr>
-
-            
-            <tr>
-                <td bgcolor="yellow">10:00–12:00</td>
-                <td bgcolor="lightblue">WEB</td>
-                <td bgcolor="lightblue">WEB</td>
-                <td bgcolor="lightblue">WEB</td>
-                <td bgcolor="lightgray">FREE SLOT</td>
-                <td bgcolor="lightgray">FREE SLOT</td>
-                <td bgcolor="lightgreen">Python</td>
-            </tr>
-
-            <tr bgcolor="pink">
-                <td colspan="7" align="center"><b>LUNCH</b></td>
-            </tr>
-
-
-            <tr>
-                <td bgcolor="yellow">1:00–2:00</td>
-                <td bgcolor="lightgray">FREE SLOT</td>
-                <td bgcolor="lightpink">English</td>
-                <td bgcolor="lightpink">English</td>
-                <td bgcolor="lightgreen">Python</td>
-                <td bgcolor="lightpink">English</td>
-                <td bgcolor="lightgray">FREE SLOT</td>
-            </tr>
 ```
 
 ## OUTPUT
-![alt text](image-1.png)
 
 ## RESULT
 The program for creating slot timetable using basic HTML tags is executed successfully.
