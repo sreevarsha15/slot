@@ -34,9 +34,9 @@ Execute the program using runserver command.
         <br><br>
 
         <table border="2" cellspacing="3" cellpadding="11">
-            <caption><b>SLOT TIME TABLE (Sree Varsha.D-25002381))</b></caption>
+            <caption><b>SLOT TIME TABLE (Sree Varsha D - 25002381)</b></caption>
 
-            <tr bgcolor="yellow">
+            <tr bgcolor="cyan">
                 <th>TIME/DAY</th>
                 <th>MONDAY</th>
                 <th>TUESDAY</th>
@@ -46,46 +46,81 @@ Execute the program using runserver command.
                 <th>SATURDAY</th>
             </tr>
 
-           
             <tr>
-                <td bgcolor="yellow">8:00–10:00</td>
-                <td bgcolor="lightgreen">Python</td>
+                <td bgcolor="cyan">8:00-10:00</td>
+                <td bgcolor="lightgrey">FREE HOUR</td>
+                <td bgcolor="lightgreen">PYTHON</td>
                 <td bgcolor="lightblue">WEB</td>
-                <td bgcolor="lightblue">WEB</td>
-                <td bgcolor="lightgray">FREE SLOT</td>
-                <td bgcolor="lightgray">FREE SLOT</td>
+                <td bgcolor="lightgrey">FREE HOUR</td>
+                <td bgcolor="lightgreen">PYTHON</td>
                 <td bgcolor="lightblue">WEB</td>
             </tr>
 
-            
             <tr>
-                <td bgcolor="yellow">10:00–12:00</td>
+                <td bgcolor="cyan">10:00-12:00</td>
                 <td bgcolor="lightblue">WEB</td>
                 <td bgcolor="lightblue">WEB</td>
                 <td bgcolor="lightblue">WEB</td>
-                <td bgcolor="lightgray">FREE SLOT</td>
-                <td bgcolor="lightgray">FREE SLOT</td>
-                <td bgcolor="lightgreen">Python</td>
+                <td bgcolor="lightgrey">FREE HOUR</td>
+                <td bgcolor="lightgrey">FREE HOUR</td>
+                <td bgcolor="lightgrey">FREE HOUR</td>
             </tr>
 
             <tr bgcolor="pink">
-                <td colspan="7" align="center"><b>LUNCH</b></td>
+                <td colspan="7" align="center">LUNCH</td>
             </tr>
 
-            <!-- 1–2 -->
             <tr>
-                <td bgcolor="yellow">1:00–2:00</td>
-                <td bgcolor="lightgray">FREE SLOT</td>
-                <td bgcolor="lightpink">English</td>
-                <td bgcolor="lightpink">English</td>
-                <td bgcolor="lightgreen">Python</td>
-                <td bgcolor="lightpink">English</td>
-                <td bgcolor="lightgray">FREE SLOT</td>
+                <td bgcolor="cyan">1:00-3:00</td>
+                <td bgcolor="lightgrey">FREE HOUR</td>
+                <td bgcolor="lightpink">ENGLISH</td>
+                <td bgcolor="lightyellow">MENTOR MEET</td>
+                <td bgcolor="lightgreen">PYTHON</td>
+                <td bgcolor="lightpink">ENGLISH</td>
+                <td bgcolor="lightgrey">FREE HOUR</td>
             </tr>
+
+            <tr>
+                <td bgcolor="cyan">3:00-5:00</td>
+                <td bgcolor="lightgreen">PYTHON</td>
+                <td bgcolor="lightgreen">PYTHON</td>
+                <td bgcolor="lightpink">ENGLISH</td>
+                <td bgcolor="lightpink">ENGLISH</td>
+                <td bgcolor="lightgrey">FREE HOUR</td>
+                <td bgcolor="lightgrey">FREE HOUR</td>
+            </tr>
+        </table>
+
+        <br><br><br>
+
+        <table border="2" cellpadding="11" cellspacing="2">
+            <tr>
+                <th>S.NO</th>
+                <th>SUBJECT CODE</th>
+                <th>SUBJECT NAME</th>
+            </tr>
+            <tr>
+                <td>1.</td>
+                <td>19AI414</td>
+                <td>FUNDAMENTALS OF WEB DEVELOPMENT</td>
+            </tr>
+            <tr>
+                <td>2.</td>
+                <td>19AI301</td>
+                <td>PYTHON PROGRAMMING</td>
+            </tr>
+            <tr>
+                <td>3.</td>
+                <td>19EN101</td>
+                <td>COMMUNICATIVE ENGLISH</td>
+            </tr>
+        </table>
+    </body>
+</html>
 ```
 
 ## OUTPUT
-![alt text](image-1.png)
+![alt text](image-2.png)
 
 ## RESULT
 The program for creating slot timetable using basic HTML tags is executed successfully.
