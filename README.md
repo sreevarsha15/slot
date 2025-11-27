@@ -30,11 +30,11 @@ Execute the program using runserver command.
 ```
 <html>
     <body>
-        <img src="logo.png" width="1000" height="200" title="SEC logo">
+        <img src="c:\Users\acer\slot\logo.png" width="1000" height="200" title="SEC logo">
         <br><br>
 
         <table border="2" cellspacing="3" cellpadding="11">
-            <caption><b>SLOT TIME TABLE (Sree Varsha.D - 25002381)</b></caption>
+            <caption><b>SLOT TIME TABLE (Sree Varsha D - 25002381)</b></caption>
 
             <tr bgcolor="cyan">
                 <th>TIME/DAY</th>
@@ -48,11 +48,11 @@ Execute the program using runserver command.
 
             <tr>
                 <td bgcolor="cyan">8:00-10:00</td>
-                <td bgcolor="lightgrey">FREE HOUR</td>
-                <td bgcolor="lightgreen">PYTHON</td>
+                <td bgcolor="lightgrey">PYTHON</td>
+                <td bgcolor="lightgreen">FREE HOUR</td>
                 <td bgcolor="lightblue">WEB</td>
                 <td bgcolor="lightgrey">FREE HOUR</td>
-                <td bgcolor="lightgreen">PYTHON</td>
+                <td bgcolor="lightgreen">FREE HOUR</td>
                 <td bgcolor="lightblue">WEB</td>
             </tr>
 
@@ -63,7 +63,7 @@ Execute the program using runserver command.
                 <td bgcolor="lightblue">WEB</td>
                 <td bgcolor="lightgrey">FREE HOUR</td>
                 <td bgcolor="lightgrey">FREE HOUR</td>
-                <td bgcolor="lightgrey">FREE HOUR</td>
+                <td bgcolor="lightgrey">PYTHON</td>
             </tr>
 
             <tr bgcolor="pink">
@@ -71,7 +71,7 @@ Execute the program using runserver command.
             </tr>
 
             <tr>
-                <td bgcolor="cyan">1:00-2:00</td>
+                <td bgcolor="cyan">1:00-3:00</td>
                 <td bgcolor="lightgrey">FREE HOUR</td>
                 <td bgcolor="lightpink">ENGLISH</td>
                 <td bgcolor="lightyellow">MENTOR MEET</td>
@@ -83,11 +83,11 @@ Execute the program using runserver command.
             <tr>
                 <td bgcolor="cyan">3:00-5:00</td>
                 <td bgcolor="lightgreen">PYTHON</td>
-                <td bgcolor="lightgreen">PYTHON</td>
+                <td bgcolor="lightgreen">FREE HOUR</td>
                 <td bgcolor="lightpink">ENGLISH</td>
                 <td bgcolor="lightpink">ENGLISH</td>
                 <td bgcolor="lightgrey">FREE HOUR</td>
-                <td bgcolor="lightgrey">FREE HOUR</td>
+                <td bgcolor="lightgrey">PYTHON</td>
             </tr>
         </table>
 
@@ -120,7 +120,7 @@ Execute the program using runserver command.
 ```
 
 ## OUTPUT
-![alt text](image-2.png)
+![alt text](image-3.png)
 
 ## RESULT
 The program for creating slot timetable using basic HTML tags is executed successfully.
