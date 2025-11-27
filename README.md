@@ -34,7 +34,7 @@ Execute the program using runserver command.
         <br><br>
 
         <table border="2" cellspacing="3" cellpadding="11">
-            <caption><b>SLOT TIME TABLE (shanmuga priya.K-25004352)</b></caption>
+            <caption><b>SLOT TIME TABLE (Sree Varsha.D - 25002381)</b></caption>
 
             <tr bgcolor="cyan">
                 <th>TIME/DAY</th>
