@@ -28,9 +28,13 @@ Execute the program using runserver command.
 
 ## PROGRAM
 ```
+<html>
+    <body>
+        <img src="logo.png" width="1000" height="200" title="SEC logo">
+        <br><br>
 
         <table border="2" cellspacing="3" cellpadding="11">
-            <caption><b>SLOT TIME TABLE (Sree Varsha D - 25002381)</b></caption>
+            <caption><b>SLOT TIME TABLE (shanmuga priya.K-25004352)</b></caption>
 
             <tr bgcolor="cyan">
                 <th>TIME/DAY</th>
@@ -67,7 +71,7 @@ Execute the program using runserver command.
             </tr>
 
             <tr>
-                <td bgcolor="cyan">1:00-3:00</td>
+                <td bgcolor="cyan">1:00-2:00</td>
                 <td bgcolor="lightgrey">FREE HOUR</td>
                 <td bgcolor="lightpink">ENGLISH</td>
                 <td bgcolor="lightyellow">MENTOR MEET</td>
