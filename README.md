@@ -72,7 +72,7 @@ Execute the program using runserver command.
                 <td colspan="7" align="center"><b>LUNCH</b></td>
             </tr>
 
-            <!-- 1–2 -->
+
             <tr>
                 <td bgcolor="yellow">1:00–2:00</td>
                 <td bgcolor="lightgray">FREE SLOT</td>
